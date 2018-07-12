@@ -1,4 +1,5 @@
 BitCore Core integration/staging tree
+// Hello
 =====================================
 
 
